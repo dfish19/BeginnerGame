@@ -1,0 +1,15 @@
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\bin\Debug\net6.0\BeginnerGame.exe
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\bin\Debug\net6.0\BeginnerGame.deps.json
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\bin\Debug\net6.0\BeginnerGame.runtimeconfig.json
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\bin\Debug\net6.0\BeginnerGame.dll
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\bin\Debug\net6.0\BeginnerGame.pdb
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\BeginnerGame.csproj.AssemblyReference.cache
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\BeginnerGame.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\BeginnerGame.AssemblyInfoInputs.cache
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\BeginnerGame.AssemblyInfo.cs
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\BeginnerGame.csproj.CoreCompileInputs.cache
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\BeginnerGame.dll
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\refint\BeginnerGame.dll
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\BeginnerGame.pdb
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\BeginnerGame.genruntimeconfig.cache
+C:\Users\dfish\Desktop\Repos\BeginnerGame\BeginnerGame\obj\Debug\net6.0\ref\BeginnerGame.dll
