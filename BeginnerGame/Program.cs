@@ -32,8 +32,8 @@ while (warriorMan > 0 && assailantGuy > 0)
     }
     if(choice == "h")
     {
-        warriorMan += rechargeHealth;
         Console.WriteLine();
+        warriorMan += rechargeHealth;
         Console.WriteLine($"Player restores {rechargeHealth} health points!");
     }
     if (choice == "p")
@@ -50,12 +50,13 @@ while (warriorMan > 0 && assailantGuy > 0)
 
         if (enemyChoice == 0)
         {
+            Console.WriteLine();
             warriorMan -= assailantHit;
             Console.WriteLine($"Enemy attacks and deals {assailantHit} damage!");
         }
         else
         {
-            
+            Console.WriteLine();
             assailantGuy += rechargeHealth;
             Console.WriteLine($"Enemy restores {rechargeHealth} health points!");
         }
