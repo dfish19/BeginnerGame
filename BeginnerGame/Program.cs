@@ -71,9 +71,11 @@ while (warriorMan > 0 && assailantGuy > 0)
 }
 if (warriorMan > 0)
 {
+    Console.WriteLine();
     Console.WriteLine("Supreme Warrior...You won!");
 }
 else
 {
+    Console.WriteLine();
     Console.WriteLine("You lose! Improve your skills and try again!");
 }
