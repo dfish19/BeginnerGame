@@ -62,6 +62,7 @@ while (warriorMan > 0 && assailantGuy > 0)
         }
         else
         {
+            Console.WriteLine();
             assailantGuy += powerHit;
         }
     }
