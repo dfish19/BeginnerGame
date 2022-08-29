@@ -46,7 +46,7 @@ while (warriorMan > 0 && assailantGuy > 0)
     {
         Console.WriteLine("Enemy Turn");
         Console.WriteLine($"Player HP - {warriorMan}. Enemy HP - {assailantGuy}");
-        var enemyChoice = random.Next(0,2);
+        var enemyChoice = random.Next(0,3);
 
         if (enemyChoice == 0)
         {
@@ -54,11 +54,15 @@ while (warriorMan > 0 && assailantGuy > 0)
             warriorMan -= assailantHit;
             Console.WriteLine($"Enemy attacks and deals {assailantHit} damage!");
         }
-        else
+        else if(enemyChoice == 1)
         {
             Console.WriteLine();
             assailantGuy += rechargeHealth;
             Console.WriteLine($"Enemy restores {rechargeHealth} health points!");
+        }
+        else
+        {
+            assailantGuy += powerHit;
         }
     }
 
